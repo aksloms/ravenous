@@ -5,8 +5,11 @@ Built with React, uses Yelp APIto get restaurant information.
 Created as part of "Create Front-End App with React" Codecademy course. 
 
 ### Ravenous website 
-![Main view](https://github.com/aksloms/ravenous/screen_shots/main_view.png?raw=true "Main view")
-![Search results](https://github.com/aksloms/ravenous/screen_shots/search_results.png?raw=true "Search results")
+In the main view user can provide type of restaurant to search for, location and the criteria by which the results are sorted by.
+![Main view](https://github.com/aksloms/ravenous/blob/master/screen_shots/main_view.png?raw=true "Main view")
+
+The search results are displayed as tiles with pictures and restaurants' information. Additionaly, the rating of particular category and number of reviews is provided.
+![Search results](https://github.com/aksloms/ravenous/blob/master/screen_shots/search_results.png?raw=true "Search results")
 
 ### Installation and Setup Instructions
 
