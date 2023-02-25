@@ -1,6 +1,6 @@
 ## Ravenous
 Ravenous website allows user to search for restaurants based on criteria such as location. 
-Built with React, uses Yelp APIto get restaurant information.
+Built with React, uses Yelp API to get restaurant information.
 
 Created as part of "Create Front-End App with React" Codecademy course. 
 
